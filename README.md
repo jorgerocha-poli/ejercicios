@@ -14,5 +14,5 @@ Archivos Generados
 
 1. empleados.txt: Contiene los IDs y nombres de los empleados.
 2. mercancia.txt: Contiene la información sobre los productos.
-3. `<employeeId>_transacciones.txt`: Archivos generados por empleado que contienen las transacciones realizadas (hasta 8 transacciones por empleado).
+3. transacciones.txt`: Archivos generados por empleado que contienen las transacciones realizadas (hasta 8 transacciones por empleado).
 
